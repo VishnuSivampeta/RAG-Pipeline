@@ -1,6 +1,9 @@
 # RAG-Pipeline
 
 
+![image](https://github.com/user-attachments/assets/a7fde28e-d795-4e17-814a-42707b3c1260)
+
+
 This project implements a Retrieval Augmented Generation (RAG) pipeline using Ollama for language model inference and Weaviate as a vector database. The setup allows for efficient data retrieval and processing, leveraging the capabilities of both tools.
 
 ## Prerequisites
