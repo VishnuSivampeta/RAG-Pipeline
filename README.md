@@ -20,3 +20,7 @@ Before you begin, ensure you have the following applications and libraries insta
   ```bash
   pip install -U weaviate-client
 
+### Docker
+- **Quickstart Guide**: [Docker Download Page](https://docs.docker.com/desktop/install/linux-install/)
+- **Quickstart Guide**: [Weaviate Docker Quickstart](https://weaviate.io/developers/weaviate/installation/docker-compose)
+
